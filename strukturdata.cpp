@@ -64,12 +64,12 @@ void readFile(){
 
 void menuFile(){
     int pilihan;
-    cout<<"-------------------------------------"<<endl;
+    cout<<"---------------------------------------"<<endl;
     cout<<"                 Menu                "<<endl;
-    cout<<"-------------------------------------"<<endl;
+    cout<<"---------------------------------------"<<endl;
     cout<<"1. Membuat dan Input data ke File    "<<endl;
     cout<<"2. Membaca data File                 "<<endl;
-    cout<<"-------------------------------------"<<endl;
+    cout<<"---------------------------------------"<<endl;
     cout<<"Masukkan Pilihan : ";
     cin>>pilihan;
 
